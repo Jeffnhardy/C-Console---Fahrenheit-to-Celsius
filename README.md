@@ -1,2 +1,2 @@
-# C-Console---Fahrenheit-to-Celsius
+# C# Console Apllication
 Simple Fahrenheit to Celsius converter
